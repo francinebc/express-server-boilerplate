@@ -1,0 +1,22 @@
+{
+  "name": "y",
+  "version": "y",
+  "description": "y",
+  "main": "y",
+  "repository": "y",
+  "author": "y",
+  "license": "y",
+  "private": null,
+  "dependencies": {
+    "express": "^4.16.4",
+    "jest": "^24.0.0",
+    "nodemon": "^1.18.9",
+    "super": "^0.2.3",
+    "test": "^0.6.0"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest --watchAll --noStackTrace"
+  }
+}
